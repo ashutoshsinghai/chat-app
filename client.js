@@ -1,4 +1,4 @@
-const socket = io('http://chat-app-q.herokuapp.com')
+const socket = io('http://chat-app-q.herokuapp.com:')
 var form = document.forms[0]
 var message = document.querySelector('#message')
 var container = document.querySelector('#all')
