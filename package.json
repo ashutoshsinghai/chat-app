@@ -1,0 +1,23 @@
+{
+  "name": "realtimechat",
+  "version": "1.0.0",
+  "description": "A realtime chat application",
+  "main": "app.js",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "realtime",
+    "chat",
+    "talk",
+    "communication",
+    "interact"
+  ],
+  "author": "Ashutosh Singhai",
+  "license": "MIT"
+}
